@@ -7,3 +7,8 @@
 4.交流群:1101599545
 
 5.有什么bug请及时提交，以便及时解决
+
+![博客图片1](https://github.com/265525/beego-/blob/main/3.png)
+![博客图片2](https://github.com/265525/beego-/blob/main/2.png)
+![博客图片1](https://github.com/265525/beego-/blob/main/1.png)
+![博客图片4](https://github.com/265525/beego-/blob/main/4.png)
